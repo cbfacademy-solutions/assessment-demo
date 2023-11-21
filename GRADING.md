@@ -16,8 +16,8 @@ This section gauges the depth of understanding and clarity of information presen
 | --------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0         | Did not present       | Student did not present.                                                                                                                                                  |
 | 1         | Poor organisation     | Incoherent presentation with no apparent organisation. Presentation lacks any technical detail.                                                                           |
-| 2         | Limited organisation  | Presentation attempts some structure, but is largely disorganised with unclear transitions between topics. Presentation lacks any technical detail.                       |
-| 3         | Adequate organisation | Adequate organisation with an introduction, main points, and conclusion, but transitions are lacking. Some clarity in the presentation, but lacking any technical detail. |
+| 2         | Limited organisation  | Presentation attempts some structure, but is largely disorganised with unclear transitions between topics. Limited or no technical detail.                       |
+| 3         | Adequate organisation | Adequate organisation with an introduction, main points, and conclusion, but transitions are lacking. Some clarity in the presentation, with minimal technical detail. |
 | 4         | Good organisation     | Mostly logical flow with a clear introduction, main points, and conclusion. Some transitions may be abrupt. Organised presentation with sufficient technical detail.      |
 | 5         | Thoroughly organised  | Concise and well-organised presentation with a clear introduction, main points, and conclusion. Smooth transitions between topics. Excellent depth of technical detail.   |
 
