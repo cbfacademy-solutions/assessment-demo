@@ -12,14 +12,14 @@ NB: please consider that some students may have technical issues outside of thei
 
 This section gauges the depth of understanding and clarity of information presented about the technical project. It assesses the student's knowledge level, technical understanding, and the logical flow and structure of the presentation.
 
-| **Score** | **Caption**           | **Details**                                                                                                                                                               |
-| --------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0         | Did not present       | Student did not present.                                                                                                                                                  |
-| 1         | Poor organisation     | Incoherent presentation with no apparent organisation. Presentation lacks any technical detail.                                                                           |
-| 2         | Limited organisation  | Presentation attempts some structure, but is largely disorganised with unclear transitions between topics. Limited or no technical detail.                       |
-| 3         | Adequate organisation | Adequate organisation with an introduction, main points, and conclusion, but transitions are lacking. Some clarity in the presentation, with minimal technical detail. |
-| 4         | Good organisation     | Mostly logical flow with a clear introduction, main points, and conclusion. Some transitions may be abrupt. Organised presentation with sufficient technical detail.      |
-| 5         | Thoroughly organised  | Concise and well-organised presentation with a clear introduction, main points, and conclusion. Smooth transitions between topics. Excellent depth of technical detail.   |
+| **Score** | **Caption**     | **Details**                                                                                                                                                                                                  |
+| --------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0         | Did not present | Student did not present.                                                                                                                                                                                     |
+| 1         | Poor            | Incoherent presentation, with no apparent structure and lacking any technical detail. Doesn't communicate a clear understanding of the requirements.                                                         |
+| 2         | Fair            | Content contains some structure, but is largely disorganised with unclear transitions between topics and doesn't present the key functionality of the project.                                               |
+| 3         | Adequate        | Fairly structured with an introduction, main points, and conclusion, but could be better organised. Showcases the core features of the project, but doesn't go into any technical details of implementation. |
+| 4         | Good            | Mostly logical flow with an observable structure. Generally organised presentation with reasonable technical detail, perhaps including visual aids.                                                          |
+| 5         | Excellent       | Polished, well-organised presentation with a clear structure and smooth transitions between topics and tools. High level of technical detail and great use of visual aids.                                   |
 
 ### Tips 
 - Assess how well the student comprehends the technical project. Look for evidence of in-depth research and knowledge.
@@ -28,19 +28,18 @@ This section gauges the depth of understanding and clarity of information presen
 
 ## Delivery and Engagement
 
-This section focuses on the student's manner of presenting, including engagement, confidence, pace of speech, and overall ability to keep the audience interested and attentive. It measures the overall impression the presentation leaves on the audience, including the student's ability to captivate, inspire interest, and create a memorable and impactful experience for the listeners.                 
+This section focuses on the student's manner of presenting, including confidence, pace of speech, and overall demonstration of passion for the project. Also speaks to the student's ability to communicate the process and outcomes of the project.              
 
-| **Score** | **Caption**                            | **Details**                                                                                                               |
-| --------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 0         | Did not present                        | Student did not present.                                                                                                  |
-| 1         | Ineffective delivery                   | Fails to engage the audience effectively, lacks pace, constant distractions. Navigates challenges or hiccups poorly       |
-| 2         | Delivery is awkward or distracting     | Limited audience engagement, and inconsistent pace.                                                                       |
-| 3         | Adequate delivery                      | Adequate engagement with the audience, reasonable pacing with only one or two distractions. Limited challenges or hiccups |
-| 4         | Mostly engaging and confident delivery | Maintains a reasonable pace. Mostly captivates the audience, with some elements fostering interest and engagement.        |
-| 5         | Engaging and confident delivery        | Appropriate pace, and varied tone. Captivates the audience, fostering interest in a smooth impactful presentation.        |
+| **Score** | **Caption**     | **Details**                                                                                                                                           |
+| --------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0         | Did not present | Student did not present.                                                                                                                              |
+| 1         | Poor            | Very low confidence, appears unprepared/unrehearsed. Haphazard pacing, encounters major issues or navigates issues poorly.                            |
+| 2         | Fair            | Fair confidence and inconsistent pacing. Shows some level of understanding with only a few stumbles, but could be better prepared.                    |
+| 3         | Adequate        | Decent pacing with only one or two distractions. Reasonably confident presentation. Doesn't encounter any major issues.                               |
+| 4         | Good            | Maintains a reasonable pace. Mostly confident delivery, with the ability to clearly communicate the process and outcomes of the project.              |
+| 5         | Excellent       | Presents with consistent pacing and engaging tone. Appears confident and knowledgeable throughout, displays a clear level of passion for the project. |
 
 ### Tips 
-- Evaluate the ability of the presentation to capture and maintain the audience's attention throughout.
 - Consider if the presentation leaves a lasting impression, and inspires further interest in the topic.
-- Assess the student's ability to engage the audience through enthusiasm, passion, and confidence.
+- Assess the student's demonstration of enthusiasm, passion, and confidence.
 - Evaluate the pace of speech (not too fast or slow) and variations in tone to maintain audience interest.
